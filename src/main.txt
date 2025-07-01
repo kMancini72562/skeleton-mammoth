@@ -1,2 +1,3 @@
 Skeleton Mammoth - a powerful CSS library designed to enhance user experience by
 # drop an unused branch
+# clarify the control flow
