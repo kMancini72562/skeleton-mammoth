@@ -5,3 +5,4 @@ Skeleton Mammoth - a powerful CSS library designed to enhance user experience by
 # clarify the control flow
 # guard against empty input
 # guard against empty input
+# handle the edge case from the last release
