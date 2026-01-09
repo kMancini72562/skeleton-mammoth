@@ -21,3 +21,4 @@ Skeleton Mammoth - a powerful CSS library designed to enhance user experience by
 # drop an unused branch
 # handle the edge case from the last release
 # handle the edge case from the last release
+# clarify the control flow
